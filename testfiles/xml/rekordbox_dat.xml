@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.7.7" Company="AlphaTheta"/>
+  <COLLECTION Entries="2">
+    <TRACK TrackID="191700722" Name="1" Artist="" Composer="" Album="" Grouping=""
+           Genre="" Kind="MP3 File" Size="1683957" TotalTime="105" DiscNumber="0"
+           TrackNumber="0" Year="0" AverageBpm="156.02" DateAdded="2023-12-24"
+           BitRate="128" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/E:/11.18/rekordbox-dat-files/1.mp3"
+           Remixer="" Tonality="Ab" Label="" Mix="">
+      <TEMPO Inizio="0.322" Bpm="156.02" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="107431889" Name="Felicita" Artist="Paul Mauriat" Composer=""
+           Album="" Grouping="" Genre="" Kind="MP3 File" Size="7010127"
+           TotalTime="175" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="166.18"
+           DateAdded="2023-12-28" BitRate="320" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/E:/11.18/rekordbox_bak/ss/000%20(1).mp3"
+           Remixer="" Tonality="Am" Label="" Mix="">
+      <TEMPO Inizio="0.175" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="3.064" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="31.949" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="60.834" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="89.719" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="119.326" Bpm="166.18" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="142.073" Bpm="166.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="165.181" Bpm="166.18" Metro="4/4" Battito="1"/>
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="2">
+      <NODE Name="newPlaylist" Type="1" KeyType="0" Entries="2">
+        <TRACK Key="191700722"/>
+        <TRACK Key="107431889"/>
+      </NODE>
+      <NODE Name="Trial playlist - Cloud Library Sync" Type="1" KeyType="0"
+            Entries="0"/>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>

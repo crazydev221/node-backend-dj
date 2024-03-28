@@ -1,0 +1,20 @@
+----- Docs -----
+origin: https://github.com/dylanljones/pyrekordbox/blob/master/docs/source/formats/anlz.md
+rust doc: https://djl-analysis.deepsymmetry.org/rekordbox-export-analysis/anlz.html
+good doc: https://pyrekordbox.readthedocs.io/en/stable/formats/anlz.html
+
+DJ music: https://www.deejayplaza.com/en/articles/rekordbox-beatgrid-tutorial
+	  https://www.deejayplaza.com/en/articles/import-analyze-music-rekordbox
+waveform: https://github.com/Deep-Symmetry/dysentery/issues/9
+	https://reverseengineering.stackexchange.com/questions/4311/help-reversing-a-edb-database-file-for-pioneers-rekordbox-software/5892#5892
+	
+	https://github.com/jan2000/python-prodj-link/commit/52fb526e7133936b7ba07125f5d54d4f87dd5de1
+	https://github.com/Deep-Symmetry/crate-digger/blob/145b8b93d2c16743d3ef7e0347e52b62bab83af0/src/main/kaitai/rekordbox_anlz.ksy#L329
+	https://www.npmjs.com/package/waveform-data
+	https://wavesurfer.xyz/
+
+----- Repo -----
+py repo: https://github.com/dylanljones/pyrekordbox/tree/master
+js repo: https://github.com/FunctionDJ/rekordbox.xml.js
+
+js waveform repo: https://github.com/maxjoehnk/node-pro-dj-link

@@ -1,0 +1,18 @@
+===== DAT =====
+PPTH		[path]
+PVBR		[vbr]
+PQTZ		[beat_grid]
+PWAV		[wf_preview]				400			
+PWV2		[wf_tiny_preview]			100
+PCOB				(hotcue, memory)
+
+
+===== EXT =====
+PPTH
+PWV3		[wf_detail]
+PCOB				(hotcue, memory)
+PCO2				(hotcue, memory)
+PQT2		[beat_grid2]:extended beat grid
+PWV5		[wf_color_detail]			150 * len
+PWV4		[wf_color]				1200 * 6 = 7200 
+PSSI(not sure)

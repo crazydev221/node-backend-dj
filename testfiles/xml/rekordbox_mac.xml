@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DJ_PLAYLISTS Version="1.0.0">
+ <PRODUCT Name="MIXO" Version="0.0.1" Company="MIXO"/>
+ <COLLECTION Entries="62">
+  <TRACK TrackID="0" Name="On My Mind (Purple Disco Machine Remix)" Artist="Diplo ft. SIDEPIECE" Genre="House/Vocal House/Bass House " Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/2020-10-ZIP/Diplo__SIDEPIECE-On_My_Mind__Remixes_-Purple_Disco_Machine_Remix-22163265.mp3" Size="10548936" TotalTime="261.774" TrackNumber="3" Year="2020" AverageBpm="123" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="6A " PlayCount="70" Rating="255" Tonality="6A">
+   <POSITION_MARK Name="Cue 3" Type="0" Start="62.501" Num="2" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="124.941" Num="5" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="210.795" Num="7" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="140.55" Num="6" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="109.331" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="78.111" Num="3" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="31.282" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.062" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.112" Bpm="123" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="1" Name="Smells Like Teen Spirit (BPM Supreme NYE 2019 Drop)" Artist="Nirvana" Genre="Rock" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/Set101/00Nirvana%20-%20Smells%20Like%20Teen%20Spirit%20(BPM%20Supreme%20NYE%202019%20Drop)%20(Dirty).mp3" Size="7144350" TotalTime="175.491" Year="1992" AverageBpm="116.3" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="4A - Energy 7" Tonality="4A">
+   <POSITION_MARK Name="" Type="0" Start="25.527" Num="2" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="" Type="0" Start="60.093" Num="4" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="" Type="0" Start="158.632" Num="6" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="" Type="0" Start="0.067" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="33.781" Num="3" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="" Type="0" Start="68.347" Num="5" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="" Type="0" Start="7.986" Num="1" Red="31" Green="163" Blue="146"/>
+   <TEMPO Inizio="0.247" Bpm="116.3" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="2" Name="Smells Like Teen Spirit (Original Mix)" Artist="Sean Finn, Block &amp; Crown" Genre="Funky/Jackin'/Groovy/Soulful " Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/2020-10-ZIP/Sean_Finn__Block___Crown-Smells_Like_Teen_Spirit-Original_Mix-22163875.mp3" Size="10839564" TotalTime="266.667" TrackNumber="1" Year="2019" AverageBpm="126" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="4A " PlayCount="49" Tonality="4A">
+   <POSITION_MARK Name="Cue 2" Type="0" Start="15.24" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="60.955" Num="3" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="213.336" Num="7" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.002" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="137.145" Num="5" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="182.86" Num="6" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="30.478" Num="2" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="91.431" Num="4" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.051" Bpm="126" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="3" Name="Deep End (Extended Mix)" Artist="John Summit" Genre="House " Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/2020-10-ZIP/John_Summit-Deep_End-Extended_Mix-22163077.mp3" Size="15788376" TotalTime="388.586" TrackNumber="1" Year="2020" AverageBpm="124" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="11A " PlayCount="47" Rating="255" Tonality="11A">
+   <POSITION_MARK Name="Cue 3" Type="0" Start="91.448" Num="2" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="121.924" Num="3" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="259.067" Num="7" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.019" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="152.4" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="167.638" Num="5" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="30.495" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="198.115" Num="6" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.024" Bpm="126" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="4" Name="Can't Wait for the Weekend - Extended Mix" Artist="Michael Gray, Roll Deep" Album="Can't Wait for the Weekend" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/AfterDarkTest/Weekend%20to%20Begin/320/320%20Michael%20Gray,%20Roll%20Deep%20-%20Can't%20Wait%20for%20the%20Weekend%20-%20Extended%20Mix.mp3" Size="14201648" TotalTime="334.55" AverageBpm="127" DateAdded="2023-12-17" BitRate="320" SampleRate="44100">
+   <TEMPO Inizio="0.025" Bpm="127" Metro="4/4" Battito="4"/>
+  </TRACK>
+  <TRACK TrackID="5" Name="Symphony (James Hype Remix - Extended)" Artist="Clean Bandit f./Zara Larsson" Album="Symphony (James Hype Remix)" Grouping="Aqua" Genre="Dance" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/Glenn%20Pop%20Tarts/Clean%20Bandit%20f.%20Zara%20Larsson%20-%20Symphony%20(James%20Hype%20Remix%20-%20Extended)%20-%205A%20-%20125.mp3" Size="11784538" TotalTime="280.32" TrackNumber="2" AverageBpm="125" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="5A - Energy 6" PlayCount="6" Rating="255" Tonality="5A" Label="Atlantic" Colour="0x25fde9">
+   <POSITION_MARK Name="Cue 7" Type="0" Start="169.031" Num="6" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="15.431" Num="1" Red="195" Green="175" Blue="4"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="92.231" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="138.311" Num="5" Red="222" Green="68" Blue="207"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.071" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="199.751" Num="7" Red="180" Green="50" Blue="255"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="61.511" Num="3" Red="180" Green="190" Blue="4"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="46.151" Num="2" Red="48" Green="90" Blue="255"/>
+   <TEMPO Inizio="0.071" Bpm="125" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="6" Name="Clean Bandit ft Zara Larsson - Symphony (Two Dimensions Remix) FREE DOWNLOAD" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Clean%20Bandit%20ft%20Zara%20Larsson%20-%20Symphony%20(Two%20Dimensions%20Remix)%20FREE%20DOWNLOAD.mp3" Size="11134074" TotalTime="260.075" AverageBpm="120" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments=" 0000127A 000012B9 0000E41C 0000E6B6 0002F487 0002B592 00008851 00008921 00038C43 000069EB" PlayCount="1" Tonality="5A">
+   <POSITION_MARK Name="" Type="0" Start="200.016" Num="6" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="" Type="0" Start="32.016" Num="2" Red="48" Green="90" Blue="255"/>
+   <POSITION_MARK Name="" Type="0" Start="0.016" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="" Type="0" Start="78.017" Num="1" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.017" Bpm="120" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="7" Name="Frankie Knuckles - Your Love" Album="Radio 1 Ibiza Prom - Originales" Genre="Other" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/Radio%201%20Ibiza%20Prom%20-%20Originales/07%20-%20Frankie%20Knuckles%20-%20Your%20Love.mp3" Size="9897328" TotalTime="410.712" TrackNumber="7" AverageBpm="116.79" DateAdded="2023-12-17" BitRate="192" SampleRate="48000" Comments="www.ytbmp3.com" PlayCount="8" Tonality="9A">
+   <POSITION_MARK Name="" Type="0" Start="182.46" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="1.543" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.552" Bpm="116.79" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="8" Name="Madonna - Like A Prayer (Jet Boot Jack Remix)" Artist="Madonna " Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/2020-05-DTD-3/Madonna%20-%20Like%20A%20Prayer%20(Jet%20Boot%20Jack%20Remix).mp3" Size="20092032" TotalTime="455.654" AverageBpm="118" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments=" 00000000 00000210 00000863 000000000132930D 00000000 0115FB44 00000000 00000000 00000000 00000000 00000000 00000000 " PlayCount="4" Tonality="7B">
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.059" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="390.568" Num="7" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="32.602" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="227.856" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="130.229" Num="2" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="292.941" Num="5" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="325.483" Num="6" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="195.314" Num="3" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.081" Bpm="118" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="9" Name="Seven Nation Army (Clean) (Extended)" Artist="The White Stripes " Composer="www.bpmsupreme.com " Genre="Rock " Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/2020-05-DTD-2/The%20White%20Stripes%20-%20Seven%20Nation%20Army%20(Clean)%20(Extended).mp3" Size="10673280" TotalTime="242.051" Year="2003" AverageBpm="121" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="9A " PlayCount="1" Tonality="9A" Label="www.bpmsupreme.com ">
+   <POSITION_MARK Name="Cue 5" Type="0" Start="119.026" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="150.762" Num="5" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="47.621" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="79.357" Num="3" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="166.63" Num="6" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.017" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="63.489" Num="2" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="206.3" Num="7" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.032" Bpm="121" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="10" Name="Joys (Extended Mix)" Artist="Roberto Surace" Album="Joys - Extended Mix" Genre="House " Kind="AIFF FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/2020-08-Beatport/12279589_Joys_(Extended%20Mix).aiff" Size="70570394" TotalTime="399.54" TrackNumber="1" Year="2019" AverageBpm="125" DateAdded="2023-12-17" BitRate="1411" SampleRate="44100" Comments="9B " PlayCount="20" Rating="255" Tonality="9B" Label="Defected ">
+   <POSITION_MARK Name="Cue 8" Type="0" Start="291.863" Num="7" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="184.343" Num="5" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.023" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="61.463" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="76.823" Num="2" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="153.623" Num="3" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="261.143" Num="6" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="168.983" Num="4" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.024" Bpm="125" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="11" Name="Can I Kick It? (Original Mix)" Artist="A Tribe Called Quest" Album="The Anthology" Genre="Hip-Hop / R&amp;B" Kind="AIFF FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/New%20Music%20AIFF%20May%202019/4812640_Can_I_Kick_It__Original_Mix.aiff" Size="46889474" TotalTime="265.4" TrackNumber="4" Year="2003" AverageBpm="96.68" DateAdded="2023-12-17" BitRate="1411" SampleRate="44100" Comments="7B - Energy 5" PlayCount="3" Tonality="7B" Label="Jive">
+   <POSITION_MARK Name="" Type="0" Start="2.391" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.378" Bpm="96.68" Metro="4/4" Battito="4"/>
+  </TRACK>
+  <TRACK TrackID="12" Name="Just Be Good To Me (Jerome Robins Remix)" Artist="Jerome Robins, Jay Frog, Alexandra Prince" Album="Just Be Good To Me (Jerome Robins Remix)" Genre="Funky / Groove / Jackin' House" Kind="AIFF FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/New%20Music%20AIFF%20May%202019/9197418_Just_Be_Good_To_Me_Jerome_Robins_Remix.aiff" Size="63041253" TotalTime="356.066" TrackNumber="1" Year="2017" AverageBpm="122" DateAdded="2023-12-17" BitRate="1411" SampleRate="44100" Comments="9A - Energy 6" PlayCount="2" Remixer="Jerome Robins" Tonality="9A" Label="Jungle Funk Recordings">
+   <POSITION_MARK Name="" Type="0" Start="0.248" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.248" Bpm="122" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="13" Name="Big Love" Artist="Pete Heller" Album="Dr Packer's Different Strokes" Genre="House" Kind="AIFF FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/New%20Music%20AIFF%20May%202019/10514756_Big_Love_Dr_Packer_Extended_Remix.aiff" Size="83025232" TotalTime="469.124" TrackNumber="4" Year="2018" AverageBpm="124" DateAdded="2023-12-17" BitRate="1411" SampleRate="44100" Comments="11B" PlayCount="7" Remixer="Dr Packer" Tonality="11B" Label="Glitterbox Recordings">
+   <POSITION_MARK Name="Start Hot" Type="0" Start="139.383" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="309.706" Num="6" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Bass Swap" Type="0" Start="402.609" Num="7" Red="170" Green="114" Blue="255"/>
+   <POSITION_MARK Name="Bass Swap" Type="0" Start="170.351" Num="1" Red="170" Green="114" Blue="255"/>
+   <TEMPO Inizio="0.028" Bpm="124" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="14" Name="Insomnia (Monster Mix) (Radio Edit)" Artist="Faithless" Album="Trance Nation - Ministry of Sound" Genre="Trance" Kind="AIFF FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/New%20Music%20AIFF%20May%202019/11232606_Insomnia__Monster_Mix__Radio_Edit.aiff" Size="37801134" TotalTime="213.886" TrackNumber="1" Year="2018" AverageBpm="127.07" DateAdded="2023-12-17" BitRate="1411" SampleRate="44100" Comments="10A - Energy 7" Tonality="10A" Label="Ministry of Sound Recordings">
+   <POSITION_MARK Name="" Type="0" Start="0.107" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.107" Bpm="127.07" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="15" Name="Moves Like Jagger (Original Mix)" Artist="800 Projekt" Album="Moves Like Jagger" Genre="House" Kind="AIFF FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/New%20Music%20AIFF%20May%202019/6931731_Moves_Like_Jagger_Original_Mix.aiff" Size="35532444" TotalTime="200.899" TrackNumber="1" Year="2014" AverageBpm="128" DateAdded="2023-12-17" BitRate="1411" SampleRate="44100" Comments="10A - Energy 7" Tonality="10A" Label="Great &quot;O&quot; Music">
+   <TEMPO Inizio="0.011" Bpm="128" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="16" Name="Must Be The Music (Crazibiza Remix)" Artist="Joey Negro" Album="Must Be The Music (Crazibiza Remix)" Genre="House" Kind="AIFF FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/New%20Music%20AIFF%20May%202019/3053016_Must_Be_The_Music_Crazibiza_Remix.aiff" Size="66920012" TotalTime="378.773" TrackNumber="1" Year="2011" AverageBpm="128" DateAdded="2023-12-17" BitRate="1411" SampleRate="44100" Comments="11A - Energy 6" PlayCount="1" Remixer="Crazibiza" Tonality="11A" Label="Z Records">
+   <TEMPO Inizio="0.026" Bpm="128" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="17" Name="Rhythm of the Night (Radio Version) [UK Edit] (Original Mix)" Artist="Corona" Album="I Love the 90s - Ministry of Sound" Genre="Dance" Kind="AIFF FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/New%20Music%20AIFF%20May%202019/9119548_Rhythm_of_the_Night__Radio_Version___UK_Edit__Original_Mix.aiff" Size="36167158" TotalTime="204.533" TrackNumber="6" Year="2017" AverageBpm="128.2" DateAdded="2023-12-17" BitRate="1411" SampleRate="44100" Comments="4A - Energy 7" PlayCount="1" Tonality="4A" Label="Ministry of Sound Recordings">
+   <POSITION_MARK Name="" Type="0" Start="204.534" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.416" Bpm="128.2" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="18" Name="Lazy (feat. David Byrne) (Extended Version)" Artist="X-Press 2, David Byrne" Album="Lazy (feat. David Byrne)" Genre="House" Kind="AIFF FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/New%20Music%20AIFF%20May%202019/8314563_Lazy__feat__David_Byrne__Extended_Version.aiff" Size="99904170" TotalTime="565.467" TrackNumber="1" Year="2002" AverageBpm="130" DateAdded="2023-12-17" BitRate="1411" SampleRate="44100" Comments="4A - Energy 6" PlayCount="1" Tonality="4A" Label="Skint Records">
+   <TEMPO Inizio="0.053" Bpm="130" Metro="4/4" Battito="4"/>
+  </TRACK>
+  <TRACK TrackID="19" Name="Dancing Queen" Artist="ABBA" Album="Ultimate Office Party!" Genre="70s Disco PL" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Choones/1-09%20Dancing%20Queen.mp3" Size="9385624" TotalTime="230.217" TrackNumber="9" Year="2011" AverageBpm="100.4" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="320 Done" PlayCount="4" Tonality="11B">
+   <POSITION_MARK Name="" Type="0" Start="3.067" Num="3" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="1.872" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="4.86" Num="6" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="4.262" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="0.079" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="" Type="0" Start="4.86" Num="7" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="4.262" Num="5" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="2.469" Num="2" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.079" Bpm="100.4" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="20" Name="Robbie Williams - Rock DJ" Album="bex party" Genre="Other" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/bex%20party/17%20-%20Robbie%20Williams%20-%20Rock%20DJ.mp3" Size="10684190" TotalTime="266.4" TrackNumber="17" AverageBpm="103.02" DateAdded="2023-12-17" BitRate="320" SampleRate="48000" Comments="www.ytbmp3.com" PlayCount="3" Tonality="10B">
+   <POSITION_MARK Name="" Type="0" Start="43.741" Num="6" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="44.03" Num="7" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="43.076" Num="3" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="0.547" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="42.761" Num="2" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="43.496" Num="5" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="42.136" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="42.432" Num="1" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.568" Bpm="103.02" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="21" Name="Macarena (Bayside Boys Remix)" Artist="Los del Río" Composer="A. Romero Monge &amp; Rafael Ruiz Perdigones" Album="Ultimate Holiday Hits" Genre="Dance" Kind="M4A FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Music/iTunes/iTunes%20Media/Music/Compilations/Ultimate%20Holiday%20Hits/03%20Macarena%20(Bayside%20Boys%20Remix).m4a" Size="7875284" TotalTime="222.028" DiscNumber="1" TrackNumber="3" Year="2005" AverageBpm="103.2" DateAdded="2023-12-17" BitRate="256" SampleRate="44100" Comments="(Bayside Boys Remix)" PlayCount="8" Tonality="1A">
+   <POSITION_MARK Name="" Type="0" Start="0.325" Num="6" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="10.171" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.528" Bpm="103.2" Metro="4/4" Battito="2"/>
+  </TRACK>
+  <TRACK TrackID="22" Name="The Sugarhill Gang - Rapper´s Delight (Single Version)" Album="bex party" Genre="Other" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/bex%20party/22%20-%20The%20Sugarhill%20Gang%20-%20Rapper%C2%B4s%20Delight%20(Single%20Version).mp3" Size="9467290" TotalTime="236.04" TrackNumber="22" AverageBpm="111.41" DateAdded="2023-12-17" BitRate="320" SampleRate="48000" PlayCount="16" Tonality="9A">
+   <POSITION_MARK Name="" Type="0" Start="18.328" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="17.791" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="0.541" Num="0" Red="230" Green="40" Blue="40"/>
+   <TEMPO Inizio="0.556" Bpm="111.41" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="23" Name="I Don't Like It, I Love It  (Original Mix)" Artist="Flo Rida, Robin Thicke, Verdine White" Album="MY HOUSE" Genre="House" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/Glenn%20Pop%20Tarts/Flo%20Rida,%20Robin%20Thicke,%20Verdine%20White%20-%20I%20Dont%20Like%20It,%20I%20Love%20It%20%20(Original%20Mix)%20%5BPoe%20Boy%5D.mp3" Size="9067936" TotalTime="223.392" AverageBpm="118" DateAdded="2023-12-17" BitRate="320" SampleRate="48000" Comments="7A - Energy 7" PlayCount="4" Rating="255" Tonality="7A" Label="Poe Boy">
+   <POSITION_MARK Name="Cue 3" Type="0" Start="73.262" Num="2" Red="48" Green="90" Blue="255"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="138.347" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="154.618" Num="5" Red="222" Green="68" Blue="207"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="24.449" Num="1" Red="195" Green="175" Blue="4"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="187.16" Num="7" Red="180" Green="50" Blue="255"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.042" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="89.533" Num="3" Red="180" Green="190" Blue="4"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="170.889" Num="6" Red="0" Green="224" Blue="255"/>
+   <TEMPO Inizio="0.042" Bpm="118" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="24" Name="Barry (Black Soul Music Mix)" Artist="Disco Incorporated" Genre="Deep House/Indie Dance/Nu Disco " Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/2020-10-ZIP/Disco_Incorporated-Barry-Black_Soul_Music_Mix-22163098.mp3" Size="15779361" TotalTime="392.145" TrackNumber="1" Year="2019" AverageBpm="122" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="7B " PlayCount="65" Rating="255" Tonality="7B">
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.003" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="157.38" Num="3" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="31.478" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="175.085" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="251.806" Num="7" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="224.265" Num="6" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="190.822" Num="5" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="62.954" Num="2" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.053" Bpm="122" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="25" Name="The Only Way Is Up" Artist="Yazz" Album="The Only Way Is Up" Grouping="Aqua" Genre="House" Kind="AIFF FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/BrightTight/904337_The_Only_Way_Is_Up_Tastemakers_Club_Mix.aiff" Size="58970320" TotalTime="333.961" TrackNumber="3" Year="2009" AverageBpm="125" DateAdded="2023-12-17" BitRate="1411" SampleRate="44100" Comments="1B" PlayCount="21" Remixer=" Tastemakers Club Mix" Tonality="1B" Label="Big Life" Colour="0x25fde9">
+   <POSITION_MARK Name="" Type="0" Start="92.294" Num="3" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="Cut" Type="0" Start="61.574" Num="2" Red="170" Green="114" Blue="255"/>
+   <POSITION_MARK Name="Release" Type="0" Start="0.134" Num="0" Red="60" Green="235" Blue="80"/>
+   <POSITION_MARK Name="Bass Swap" Type="0" Start="30.854" Num="1" Red="60" Green="235" Blue="80"/>
+   <POSITION_MARK Name="" Type="0" Start="107.654" Num="4" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="" Type="0" Start="238.214" Num="6" Red="230" Green="40" Blue="40"/>
+   <TEMPO Inizio="0.134" Bpm="125" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="26" Name="Earth, Wind &amp; Fire - September" Album="bex party" Genre="Other" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/bex%20party/05%20-%20Earth,%20Wind%20&amp;%20Fire%20-%20September.mp3" Size="8641947" TotalTime="215.484" TrackNumber="5" AverageBpm="125.7" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="3" Tonality="11B">
+   <TEMPO Inizio="0.652" Bpm="125.7" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="27" Name="Radio Ga Ga " Artist="Queen" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/Set101/Radio%20Ga%20Ga%20(Barry%20Harris%202018%20Remix).mp3" Size="16098760" TotalTime="383.869" AverageBpm="126" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="7B" PlayCount="17" Remixer="Barry Harris 2018 Remix" Tonality="7B">
+   <POSITION_MARK Name="" Type="0" Start="0.024" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="47.723" Num="2" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cut" Type="0" Start="280.025" Num="7" Red="170" Green="114" Blue="255"/>
+   <POSITION_MARK Name="" Type="0" Start="249.548" Num="6" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="" Type="0" Start="45.738" Num="1" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.024" Bpm="126" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="28" Name="D.I.S.C.O. (Alberto Gaudi &amp; Misha N`Styler Booty)_PN" Artist="Ottawan Vs Stereo Palma" Grouping="Aqua" Genre="Other" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/Glenn%20Pop%20Tarts/Ottawan%20vs.%20Stereo%20Palma%20-%20D.I.S.C.O.%20(Alberto%20Gaudi%20&amp;%20Misha%20N%60Styler%20Booty)%20-%205A%20-%20130.mp3" Size="11965245" TotalTime="297.181" AverageBpm="130" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="5A - Energy 8" PlayCount="8" Rating="255" Tonality="5A" Colour="0x25fde9">
+   <POSITION_MARK Name="Cue 5" Type="0" Start="59.165" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="118.242" Num="5" Red="222" Green="68" Blue="207"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.088" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="158.857" Num="6" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="44.396" Num="3" Red="180" Green="190" Blue="4"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="29.626" Num="2" Red="48" Green="90" Blue="255"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="177.319" Num="7" Red="180" Green="50" Blue="255"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="14.857" Num="1" Red="195" Green="175" Blue="4"/>
+   <TEMPO Inizio="0.088" Bpm="130" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="29" Name="The Weather Girls - It's Raining Men (Video)" Album="P!55EDUP FUN :: DJRIX" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/P!55EDUP%20FUN%20__%20DJRIX/112%20-%20The%20Weather%20Girls%20-%20It's%20Raining%20Men%20(Video).mp3" Size="5884250" TotalTime="294.191" TrackNumber="112" AverageBpm="135.75" DateAdded="2023-12-17" BitRate="160" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="8" Tonality="4A">
+   <POSITION_MARK Name="" Type="0" Start="4.052" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.074" Bpm="135.75" Metro="4/4" Battito="3"/>
+  </TRACK>
+  <TRACK TrackID="30" Name="The Killers - Mr. Brightside" Album="P!55EDUP FUN :: DJRIX" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/P!55EDUP%20FUN%20__%20DJRIX/031%20-%20The%20Killers%20-%20Mr.%20Brightside.mp3" Size="4543629" TotalTime="227.161" TrackNumber="31" AverageBpm="147.95" DateAdded="2023-12-17" BitRate="160" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="7" Tonality="3B">
+   <POSITION_MARK Name="" Type="0" Start="3.269" Num="2" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="1.241" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="8.136" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="3.652" Num="3" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.025" Bpm="147.95" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="31" Name="Footloose - Kenny Loggins" Album="bex party" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/bex%20party/24%20-%20Footloose%20-%20Kenny%20Loggins.mp3" Size="9162063" TotalTime="229.042" TrackNumber="24" AverageBpm="174.1" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="3" Tonality="6B">
+   <POSITION_MARK Name="" Type="0" Start="1.132" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.098" Bpm="174.1" Metro="4/4" Battito="2"/>
+  </TRACK>
+  <TRACK TrackID="32" Name="For Once in My Life" Artist="Stevie Wonder" Composer="Orlando Murden &amp; Ron Miller" Album="Stevie Wonder: The Definitive Collection" Genre="R&amp;B/Soul" Kind="M4A FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Ricksta/Bar%20Grooves/2-01%20For%20Once%20in%20My%20Life.m4a" Size="6020530" TotalTime="168.738" TrackNumber="1" AverageBpm="108.1" DateAdded="2023-12-17" BitRate="256" SampleRate="44100" Comments="2B/7B - Energy 5" PlayCount="1" Tonality="2B">
+   <POSITION_MARK Name="Cue 3" Type="0" Start="123.87" Num="2" Red="48" Green="90" Blue="255"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="88.449" Num="1" Red="195" Green="175" Blue="4"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="141.58" Num="3" Red="180" Green="190" Blue="4"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.451" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="109.675" Num="4" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.322" Bpm="108.1" Metro="4/4" Battito="3"/>
+  </TRACK>
+  <TRACK TrackID="33" Name="Uptown Mash ReMix" Artist="Stevie Wonder, Justice, Led Zeppelin &amp; Arctic Monkeys feat. Bruno Mars" Composer="a37" Album="Uptown Mash" Genre="CobStock Mix PL" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Choones/01%20Uptown%20Mash%20ReMix.mp3" Size="11760553" TotalTime="259.997" TrackNumber="1" Year="2015" AverageBpm="114.9" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="7A - 320 Done" Tonality="7A">
+   <POSITION_MARK Name="" Type="0" Start="0.021" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="" Type="0" Start="8.376" Num="1" Red="195" Green="175" Blue="4"/>
+   <TEMPO Inizio="0.017" Bpm="114.9" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="34" Name="Superstition (Jordan &amp; Santero Remix)" Artist="Stevie Wonder" Album="www.santero.co.uk" Genre="House" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Ricksta/BreakBeat%20Rix/Superstition%20(Jordan%20&amp;%20Santero%20Remix)%20-%202A.mp3" Size="17962454" TotalTime="447.425" AverageBpm="125" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="2A - Energy 7 - www.santero.co.uk" Tonality="2A">
+   <POSITION_MARK Name="" Type="0" Start="0.501" Num="0" Red="60" Green="235" Blue="80"/>
+   <POSITION_MARK Name="" Type="0" Start="61.461" Num="1" Red="60" Green="235" Blue="80"/>
+   <POSITION_MARK Name="" Type="0" Start="184.341" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="92.181" Num="3" Red="60" Green="235" Blue="80"/>
+   <POSITION_MARK Name="" Type="0" Start="76.821" Num="2" Red="48" Green="90" Blue="255"/>
+   <TEMPO Inizio="0.021" Bpm="125" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="35" Name="12. Marvin Gaye &amp; Tammi Terrell - Ain't No Mountain High Enough" Album="P!55EDUP FUN :: DJRIX" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/P!55EDUP%20FUN%20__%20DJRIX/055%20-%2012.%20Marvin%20Gaye%20&amp;%20Tammi%20Terrell%20-%20Ain't%20No%20Mountain%20High%20Enough.mp3" Size="2892203" TotalTime="144.588" TrackNumber="55" AverageBpm="130.03" DateAdded="2023-12-17" BitRate="160" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="1" Tonality="9B">
+   <POSITION_MARK Name="" Type="0" Start="0.847" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.352" Bpm="130.03" Metro="4/4" Battito="4"/>
+  </TRACK>
+  <TRACK TrackID="37" Name="Wham! - Wake Me Up Before You Go-Go (Official Video)" Album="Sing Along" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/Sing%20Along/13%20-%20Wham!%20-%20Wake%20Me%20Up%20Before%20You%20Go-Go%20(Official%20Video).mp3" Size="4619397" TotalTime="230.949" TrackNumber="13" AverageBpm="82.22" DateAdded="2023-12-17" BitRate="160" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="1" Tonality="8B">
+   <TEMPO Inizio="0.681" Bpm="82.22" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="38" Name="Barry White - You're My First My Last My Everything" Album="P!55EDUP FUN :: DJRIX" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/P!55EDUP%20FUN%20__%20DJRIX/094%20-%20Barry%20White%20-%20You're%20My%20First%20My%20Last%20My%20Everything.mp3" Size="5502346" TotalTime="275.096" TrackNumber="94" AverageBpm="131.02" DateAdded="2023-12-17" BitRate="160" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="1" Tonality="8A">
+   <TEMPO Inizio="0.215" Bpm="131.02" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="39" Name="You To Me Are Everything (Margin Remix)" Artist="James Smith, Dpdg" Album="You To Me Are Everything" Genre="House" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/Glenn%20Pop%20Tarts/James%20Smith,%20Dpdg%20-%20You%20To%20Me%20Are%20Everything%20(Margin%20Remix)%20-%204A%20-%20116.mp3" Size="10987928" TotalTime="268.984" AverageBpm="116" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="4A - Energy 6" PlayCount="11" Rating="204" Tonality="4A" Label="Sounds United">
+   <POSITION_MARK Name="Cue 1" Type="0" Start="2.114" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="184.183" Num="7" Red="180" Green="50" Blue="255"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="167.631" Num="6" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="117.976" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="18.666" Num="1" Red="195" Green="175" Blue="4"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="84.873" Num="3" Red="180" Green="190" Blue="4"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="35.218" Num="2" Red="48" Green="90" Blue="255"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="130.39" Num="5" Red="222" Green="68" Blue="207"/>
+   <TEMPO Inizio="2.114" Bpm="116" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="40" Name="Missing (Joe Stone Remix)" Artist="EDX, Mingue" Album="Missing" Genre="House" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/Glenn%20Pop%20Tarts/EDX,%20Mingue%20-%20Missing%20(Joe%20Stone%20Remix)%20-%208A%20-%20124.mp3" Size="15256597" TotalTime="375.885" TrackNumber="1" AverageBpm="124" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="8A - Energy 7" Tonality="8A" Label="Spinnin' Remixes">
+   <POSITION_MARK Name="Cue 3" Type="0" Start="85.278" Num="2" Red="48" Green="90" Blue="255"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="185.923" Num="5" Red="222" Green="68" Blue="207"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="123.988" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.117" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="62.052" Num="1" Red="195" Green="175" Blue="4"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="263.343" Num="7" Red="180" Green="50" Blue="255"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="201.407" Num="6" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="100.762" Num="3" Red="180" Green="190" Blue="4"/>
+   <TEMPO Inizio="0.117" Bpm="124" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="41" Name="I'm Coming Out (Clean) (Extended)" Artist="Lokee &amp; Stefane" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/Alex01/Lokee%20&amp;%20Stefane%20-%20I'm%20Coming%20Out%20(Clean)%20(Extended).mp3" TotalTime="265.665" AverageBpm="122" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" PlayCount="3" Tonality="7A">
+   <POSITION_MARK Name="Energy 6" Type="0" Start="157.468" Num="-1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Energy 7" Type="0" Start="141.73" Num="5" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="Energy 4" Type="0" Start="110.255" Num="4" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="Energy 4" Type="0" Start="110.255" Num="-1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="15.859" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Energy 6" Type="0" Start="15.828" Num="-1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Energy 6" Type="0" Start="63.041" Num="-1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Energy 6" Type="0" Start="157.468" Num="6" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="Energy 4" Type="0" Start="31.566" Num="-1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="31.596" Num="2" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="Energy 7" Type="0" Start="47.304" Num="-1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Energy 7" Type="0" Start="141.73" Num="-1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="224.383" Num="7" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="" Type="0" Start="47.334" Num="3" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="" Type="0" Start="0.121" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.121" Bpm="122" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="42" Name="Gimme Gimme Feat. Bleech (Extended Club Mix)" Artist="Lee Cabrera, Kevin McKay, Bleech" Album="Gimme Gimme" Genre="House" Kind="AIFF FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/2020-01/12965849_Gimme_Gimme_Feat__Bleech_Extended_Club_Mix.aiff" Size="73418828" TotalTime="415.714" TrackNumber="1" Year="2020" AverageBpm="126" DateAdded="2023-12-17" BitRate="1411" SampleRate="44100" Comments="7A" PlayCount="7" Tonality="7A" Label="Glasgow Underground">
+   <POSITION_MARK Name="" Type="0" Start="155.382" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="91.906" Num="1" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.002" Bpm="126" Metro="4/4" Battito="4"/>
+  </TRACK>
+  <TRACK TrackID="43" Name="I'M A BELIEVER - Cool MIX (Fuck with SB Pete in @31:00)" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Choones/Music%20for%20DJ%20Marcus%20G/I'M%20A%20BELIEVER%20-%20Cool%20MIX%20(Fuck%20with%20SB%20Pete%20in%20@31_00).mp3" Size="150789280" TotalTime="3754.176" AverageBpm="120" DateAdded="2023-12-17" BitRate="320" SampleRate="48000" Comments="320 Done" PlayCount="44" Tonality="9A">
+   <POSITION_MARK Name="" Type="0" Start="4.037" Num="2" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="3031.281" Num="6" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="" Type="0" Start="1369.142" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="2387.59" Num="5" Red="222" Green="68" Blue="207"/>
+   <POSITION_MARK Name="" Type="0" Start="1917.167" Num="3" Red="180" Green="190" Blue="4"/>
+   <POSITION_MARK Name="" Type="0" Start="3.218" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="" Type="0" Start="1917.603" Num="7" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="3.682" Num="1" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="3.142" Bpm="120" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="44" Name="Sweet Dreams (Are Made of This) - Remastered" Artist="Eurythmics" Album="Sweet Dreams (Are Made Of This)" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/AfterDarkTest/Sweet%20Dreams/MP3%20320kbps/320%20Eurythmics%20-%20Sweet%20Dreams%20(Are%20Made%20of%20This)%20-%20Remastered.mp3" Size="8776046" TotalTime="217.469" AverageBpm="125.16" DateAdded="2023-12-17" BitRate="320" SampleRate="44100">
+   <TEMPO Inizio="0.123" Bpm="125.16" Metro="4/4" Battito="4"/>
+  </TRACK>
+  <TRACK TrackID="45" Name="12. Marvin Gaye &amp; Tammi Terrell - Ain't No Mountain High Enough" Album="P!55EDUP FUN :: DJRIX" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/P!55EDUP%20FUN%20__%20DJRIX/055%20-%2012.%20Marvin%20Gaye%20&amp;%20Tammi%20Terrell%20-%20Ain't%20No%20Mountain%20High%20Enough.mp3" Size="2892203" TotalTime="144.588" TrackNumber="55" AverageBpm="130.03" DateAdded="2023-12-17" BitRate="160" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="1" Tonality="9B">
+   <POSITION_MARK Name="" Type="0" Start="0.847" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.352" Bpm="130.03" Metro="4/4" Battito="4"/>
+  </TRACK>
+  <TRACK TrackID="46" Name="Superstition (Jordan &amp; Santero Remix)" Artist="Stevie Wonder" Album="www.santero.co.uk" Genre="House" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Ricksta/BreakBeat%20Rix/Superstition%20(Jordan%20&amp;%20Santero%20Remix)%20-%202A.mp3" Size="17962454" TotalTime="447.425" AverageBpm="125" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="2A - Energy 7 - www.santero.co.uk" Tonality="2A">
+   <POSITION_MARK Name="" Type="0" Start="0.501" Num="0" Red="60" Green="235" Blue="80"/>
+   <POSITION_MARK Name="" Type="0" Start="61.461" Num="1" Red="60" Green="235" Blue="80"/>
+   <POSITION_MARK Name="" Type="0" Start="184.341" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="92.181" Num="3" Red="60" Green="235" Blue="80"/>
+   <POSITION_MARK Name="" Type="0" Start="76.821" Num="2" Red="48" Green="90" Blue="255"/>
+   <TEMPO Inizio="0.021" Bpm="125" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="47" Name="For Once in My Life" Artist="Stevie Wonder" Composer="Orlando Murden &amp; Ron Miller" Album="Stevie Wonder: The Definitive Collection" Genre="R&amp;B/Soul" Kind="M4A FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Ricksta/Bar%20Grooves/2-01%20For%20Once%20in%20My%20Life.m4a" Size="6020530" TotalTime="168.738" TrackNumber="1" AverageBpm="108.1" DateAdded="2023-12-17" BitRate="256" SampleRate="44100" Comments="2B/7B - Energy 5" PlayCount="1" Tonality="2B">
+   <POSITION_MARK Name="Cue 3" Type="0" Start="123.87" Num="2" Red="48" Green="90" Blue="255"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="88.449" Num="1" Red="195" Green="175" Blue="4"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="141.58" Num="3" Red="180" Green="190" Blue="4"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.451" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="109.675" Num="4" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.322" Bpm="108.1" Metro="4/4" Battito="3"/>
+  </TRACK>
+  <TRACK TrackID="48" Name="Uptown Funk (Clean Version) - Mark Ronson ft. Bruno Mars ~ radio edit" Album="Cooseman - Ibiza Classics" Grouping="Aqua" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/Cooseman%20-%20Ibiza%20Classics/37%20-%20Uptown%20Funk%20(Clean%20Version)%20-%20Mark%20Ronson%20ft.%20Bruno%20Mars%20~%20radio%20edit.mp3" Size="5537895" TotalTime="276.872" TrackNumber="37" AverageBpm="115" DateAdded="2023-12-17" BitRate="160" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="2" Tonality="7A" Colour="0x25fde9">
+   <POSITION_MARK Name="Cue 1" Type="0" Start="8.099" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="225.142" Num="7" Red="180" Green="50" Blue="255"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="141.664" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="91.577" Num="3" Red="180" Green="190" Blue="4"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="58.186" Num="2" Red="48" Green="90" Blue="255"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="158.36" Num="5" Red="222" Green="68" Blue="207"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="208.447" Num="6" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="24.795" Num="1" Red="195" Green="175" Blue="4"/>
+   <TEMPO Inizio="1.838" Bpm="115" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="49" Name="Cheerleader (Felix Jaehn Remix Radio Edit)" Album="Lucy's" Genre="Other" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/Kids/117%20-%20Cheerleader%20(Felix%20Jaehn%20Remix%20Radio%20Edit).mp3" Size="4352921" TotalTime="180.048" TrackNumber="117" AverageBpm="118" DateAdded="2023-12-17" BitRate="192" SampleRate="48000" Comments="12B - Energy 7 - www.ytbmp3.com" PlayCount="2" Tonality="12B">
+   <TEMPO Inizio="0.039" Bpm="118" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="50" Name="Donna Summer I Feel Love [Extended Dance Edit]" Album="P!55EDUP FUN :: DJRIX" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/P!55EDUP%20FUN%20__%20DJRIX/113%20-%20Donna%20Summer%20I%20Feel%20Love%20%5BExtended%20Dance%20Edit%5D.mp3" Size="11856723" TotalTime="494.016" TrackNumber="113" AverageBpm="128.05" DateAdded="2023-12-17" BitRate="192" SampleRate="48000" Comments="www.ytbmp3.com" PlayCount="1" Tonality="5A">
+   <TEMPO Inizio="0.098" Bpm="128.05" Metro="4/4" Battito="3"/>
+  </TRACK>
+  <TRACK TrackID="51" Name="Stevie Wonder - Superstition (Mattisou Edit)" Artist="Stevie Wonder " Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/2020-05-DTD-3/Stevie%20Wonder%20-%20Superstition%20(Mattisou%20Edit).mp3" Size="17744256" TotalTime="402.416" AverageBpm="125" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments=" 00000000 00000210 000007A4 00000000010EC0CC 00000000 00F57CE6 00000000 00000000 00000000 00000000 00000000 00000000 " PlayCount="4" Rating="255" Tonality="2A">
+   <POSITION_MARK Name="Cue 3" Type="0" Start="138.848" Num="2" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.607" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="223.328" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="277.088" Num="6" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="200.288" Num="3" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="246.368" Num="5" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="92.768" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="338.529" Num="7" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.145" Bpm="125" Metro="4/4" Battito="4"/>
+  </TRACK>
+  <TRACK TrackID="52" Name="The Chain (Clean) (Extended)" Artist="Fleetwood Mac" Composer="www.bpmsupreme.com" Genre="Rock" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/2018-12/Fleetwood%20Mac%20-%20The%20Chain%20(Clean)%20(Extended).mp3" Size="10486533" TotalTime="257.541" Year="1977" AverageBpm="75.5" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="9A - Energy 7" PlayCount="4" Tonality="9A" Label="www.bpmsupreme.com">
+   <POSITION_MARK Name="Cue 4" Type="0" Start="127.169" Num="3" Red="180" Green="190" Blue="4"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.017" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="76.308" Num="2" Red="48" Green="90" Blue="255"/>
+   <POSITION_MARK Name="" Type="0" Start="166.11" Num="7" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="198.692" Num="6" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="165.315" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="50.878" Num="1" Red="195" Green="175" Blue="4"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="197.103" Num="5" Red="222" Green="68" Blue="207"/>
+   <TEMPO Inizio="0.017" Bpm="75.5" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="53" Name="Kungs vs Cookin’ on 3 Burners - This Girl" Album="Ministry Ibiza Anthems 2017" Genre="Other" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/Ministry%20Ibiza%20Anthems%202017/028%20-%20Kungs%20vs%20Cookin%E2%80%99%20on%203%20Burners%20-%20This%20Girl.mp3" Size="3972043" TotalTime="197.538" TrackNumber="28" AverageBpm="122" DateAdded="2023-12-17" BitRate="160" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="5" Tonality="5A">
+   <POSITION_MARK Name="" Type="0" Start="0.799" Num="1" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="0.773" Num="2" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.281" Bpm="122" Metro="4/4" Battito="4"/>
+  </TRACK>
+  <TRACK TrackID="54" Name="This Is What You Came For (feat. Rihanna)" Artist="Calvin Harris" Album="IPAUTA - This Is What You Came For " Genre="Dance" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/Glenn%20Pop%20Tarts/Calvin%20Harris%20Ft.%20Rihanna%20-%20This%20Is%20What%20You%20Came%20For%20-%208A%20-%20124.mp3" Size="9319259" TotalTime="221.962" TrackNumber="1" AverageBpm="124" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="8A - Energy 8" Tonality="8A">
+   <POSITION_MARK Name="Cue 3" Type="0" Start="46.473" Num="2" Red="48" Green="90" Blue="255"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.505" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="185.827" Num="7" Red="180" Green="50" Blue="255"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="154.86" Num="5" Red="222" Green="68" Blue="207"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="77.44" Num="3" Red="180" Green="190" Blue="4"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="30.989" Num="1" Red="195" Green="175" Blue="4"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="123.892" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="170.343" Num="6" Red="0" Green="224" Blue="255"/>
+   <TEMPO Inizio="0.021" Bpm="124" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="55" Name="Daft Punk - One More Time" Album="Ministry Ibiza Anthems 2017" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/Ministry%20Ibiza%20Anthems%202017/075%20-%20Daft%20Punk%20-%20One%20More%20Time.mp3" Size="7715267" TotalTime="321.456" TrackNumber="75" AverageBpm="122.88" DateAdded="2023-12-17" BitRate="192" SampleRate="48000" Comments="www.ytbmp3.com" Tonality="10B">
+   <TEMPO Inizio="0.143" Bpm="122.88" Metro="4/4" Battito="3"/>
+  </TRACK>
+  <TRACK TrackID="56" Name="Get Lucky " Artist="Daft Punk" Composer="www.bpmsupreme.com" Genre="Electronic" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/Set101/Daft%20Punk%20-%20Get%20Lucky%20(Joe%20Maz%20Remix)%20(Extended).mp3" Size="13732014" TotalTime="327.811" AverageBpm="126" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="10A" PlayCount="21" Remixer="Joe Maz Remix" Tonality="10A" Label="BPM Supreme" Mix="www.bpmsupreme.com">
+   <POSITION_MARK Name="" Type="0" Start="45.856" Num="2" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="Bass Swap" Type="0" Start="76.332" Num="3" Red="170" Green="114" Blue="255"/>
+   <POSITION_MARK Name="" Type="0" Start="30.618" Num="1" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="Bass Swap" Type="0" Start="278.238" Num="7" Red="170" Green="114" Blue="255"/>
+   <POSITION_MARK Name="" Type="0" Start="0.142" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="" Type="0" Start="171.571" Num="5" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="" Type="0" Start="104.904" Num="4" Red="31" Green="163" Blue="146"/>
+   <TEMPO Inizio="0.142" Bpm="126" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="57" Name="Get Lucky (Joe Maz Remix) (Extended)" Artist="Daft Punk" Composer="www.bpmsupreme.com" Genre="Electronic" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Music/2018-12/Daft%20Punk%20-%20Get%20Lucky%20(Joe%20Maz%20Remix)%20(Extended).mp3" Size="13732014" TotalTime="327.811" AverageBpm="126" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Comments="10A - Energy 8" PlayCount="12" Rating="51" Tonality="10A" Label="BPM Supreme">
+   <POSITION_MARK Name="" Type="0" Start="247.757" Num="7" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="45.852" Num="2" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.138" Num="0" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="167.757" Num="5" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="76.328" Num="3" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="186.805" Num="6" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="30.614" Num="1" Red="31" Green="163" Blue="146"/>
+   <POSITION_MARK Name="Cue 5" Type="0" Start="137.281" Num="4" Red="31" Green="163" Blue="146"/>
+   <TEMPO Inizio="0.138" Bpm="126" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="59" Name="Wake Me Up (Clean Extended)" Artist="Avicii ft Aloe Blacc" Genre="Progressive House" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Choones/Avicii%20ft%20Aloe%20Blacc%20-%20Wake%20Me%20Up%20(Clean%20Extended).mp3" Size="11941401" TotalTime="294.296" Year="2013" AverageBpm="124" DateAdded="2023-12-17" BitRate="320" SampleRate="44100" Tonality="10B">
+   <POSITION_MARK Name="" Type="0" Start="0.071" Num="0" Red="230" Green="40" Blue="40"/>
+   <TEMPO Inizio="0.071" Bpm="124" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="60" Name="Avicii - Wake Me Up (Official Video)" Album="Cooseman - Ibiza Classics" Grouping="Aqua" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/Cooseman%20-%20Ibiza%20Classics/27%20-%20Avicii%20-%20Wake%20Me%20Up%20(Official%20Video).mp3" Size="5451135" TotalTime="272.536" TrackNumber="27" AverageBpm="123.96" DateAdded="2023-12-17" BitRate="160" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="1" Tonality="10B" Colour="0x25fde9">
+   <POSITION_MARK Name="Cue 5" Type="0" Start="116.543" Num="4" Red="40" Green="226" Blue="20"/>
+   <POSITION_MARK Name="Cue 7" Type="0" Start="197.856" Num="6" Red="0" Green="224" Blue="255"/>
+   <POSITION_MARK Name="Cue 4" Type="0" Start="93.311" Num="3" Red="180" Green="190" Blue="4"/>
+   <POSITION_MARK Name="Cue 3" Type="0" Start="77.823" Num="2" Red="48" Green="90" Blue="255"/>
+   <POSITION_MARK Name="Cue 6" Type="0" Start="151.392" Num="5" Red="222" Green="68" Blue="207"/>
+   <POSITION_MARK Name="Cue 8" Type="0" Start="217.216" Num="7" Red="180" Green="50" Blue="255"/>
+   <POSITION_MARK Name="Cue 1" Type="0" Start="0.382" Num="0" Red="230" Green="40" Blue="40"/>
+   <POSITION_MARK Name="Cue 2" Type="0" Start="39.103" Num="1" Red="195" Green="175" Blue="4"/>
+   <TEMPO Inizio="0.382" Bpm="123.96" Metro="4/4" Battito="1"/>
+  </TRACK>
+  <TRACK TrackID="61" Name="The Killers - Mr. Brightside" Album="flowers" Kind="MP3 FILE" Location="file://localhost/Users/marcus/Music/MIXO/Music/Choones/Desktop/Spotify/flowers/18%20-%20The%20Killers%20-%20Mr.%20Brightside.mp3" Size="4543615" TotalTime="227.161" TrackNumber="18" AverageBpm="147.95" DateAdded="2023-12-17" BitRate="160" SampleRate="44100" Comments="www.ytbmp3.com" PlayCount="1" Tonality="3B">
+   <POSITION_MARK Name="" Type="0" Start="3.233" Num="0" Red="40" Green="226" Blue="20"/>
+   <TEMPO Inizio="0.025" Bpm="147.95" Metro="4/4" Battito="1"/>
+  </TRACK>
+ </COLLECTION>
+ <PLAYLISTS>
+  <NODE Type="0" Name="ROOT" Count="2">
+   <NODE Name="Zena" Type="1" KeyType="0" Entries="45">
+    <TRACK Key="0"/>
+    <TRACK Key="1"/>
+    <TRACK Key="2"/>
+    <TRACK Key="3"/>
+    <TRACK Key="4"/>
+    <TRACK Key="5"/>
+    <TRACK Key="6"/>
+    <TRACK Key="7"/>
+    <TRACK Key="8"/>
+    <TRACK Key="9"/>
+    <TRACK Key="10"/>
+    <TRACK Key="11"/>
+    <TRACK Key="12"/>
+    <TRACK Key="13"/>
+    <TRACK Key="14"/>
+    <TRACK Key="15"/>
+    <TRACK Key="16"/>
+    <TRACK Key="17"/>
+    <TRACK Key="18"/>
+    <TRACK Key="19"/>
+    <TRACK Key="20"/>
+    <TRACK Key="21"/>
+    <TRACK Key="22"/>
+    <TRACK Key="23"/>
+    <TRACK Key="24"/>
+    <TRACK Key="25"/>
+    <TRACK Key="26"/>
+    <TRACK Key="27"/>
+    <TRACK Key="28"/>
+    <TRACK Key="29"/>
+    <TRACK Key="30"/>
+    <TRACK Key="31"/>
+    <TRACK Key="47"/>
+    <TRACK Key="33"/>
+    <TRACK Key="46"/>
+    <TRACK Key="45"/>
+    <TRACK Key="36"/>
+    <TRACK Key="37"/>
+    <TRACK Key="38"/>
+    <TRACK Key="39"/>
+    <TRACK Key="40"/>
+    <TRACK Key="41"/>
+    <TRACK Key="42"/>
+    <TRACK Key="43"/>
+    <TRACK Key="44"/>
+   </NODE>
+   <NODE Name="Zena Requests" Type="1" KeyType="0" Entries="17">
+    <TRACK Key="45"/>
+    <TRACK Key="46"/>
+    <TRACK Key="47"/>
+    <TRACK Key="48"/>
+    <TRACK Key="49"/>
+    <TRACK Key="50"/>
+    <TRACK Key="51"/>
+    <TRACK Key="52"/>
+    <TRACK Key="53"/>
+    <TRACK Key="54"/>
+    <TRACK Key="55"/>
+    <TRACK Key="56"/>
+    <TRACK Key="57"/>
+    <TRACK Key="58"/>
+    <TRACK Key="59"/>
+    <TRACK Key="60"/>
+    <TRACK Key="61"/>
+   </NODE>
+  </NODE>
+ </PLAYLISTS>
+</DJ_PLAYLISTS>

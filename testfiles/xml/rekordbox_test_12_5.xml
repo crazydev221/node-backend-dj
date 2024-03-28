@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.7.7" Company="AlphaTheta"/>
+  <COLLECTION Entries="12">
+    <TRACK TrackID="95446072" Name="Felicita" Artist="Various Artists" Composer=""
+           Album="" Grouping="" Genre="" Kind="MP3 File" Size="7586120"
+           TotalTime="189" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="107.52"
+           DateAdded="2023-12-18" BitRate="320" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/E:/TASKS/GoogleTeachableMachine/HDH_New/audio-folder/normal/2.mp3"
+           Remixer="" Tonality="Dm" Label="" Mix="">
+      <TEMPO Inizio="0.140" Bpm="107.52" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="7.395" Bpm="107.52" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="28.043" Bpm="107.52" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="47.017" Bpm="107.52" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="66.549" Bpm="107.52" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="86.639" Bpm="107.52" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="106.171" Bpm="107.52" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="125.145" Bpm="107.52" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="144.677" Bpm="107.52" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="164.767" Bpm="107.52" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="184.299" Bpm="107.52" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="100752670" Name="highway-north" Artist="" Composer=""
+           Album="Camtasia SSTK Music" Grouping="" Genre="" Kind="MP3 File"
+           Size="6612684" TotalTime="165" DiscNumber="0" TrackNumber="0"
+           Year="0" AverageBpm="88.01" DateAdded="2023-12-18" BitRate="320"
+           SampleRate="48000" Comments="0" PlayCount="0" Rating="0" Location="file://localhost/E:/TASKS/GoogleTeachableMachine/HDH_New/audio-folder/sleepy%20left/3.mp3"
+           Remixer="" Tonality="Db" Label="" Mix="">
+      <TEMPO Inizio="0.052" Bpm="88.01" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="34658465" Name="Impact Moderato" Artist="Kevin MacLeod"
+           Composer="" Album="YouTube Audio Library" Grouping="" Genre="Cinematic"
+           Kind="MP3 File" Size="764176" TotalTime="27" DiscNumber="0" TrackNumber="0"
+           Year="0" AverageBpm="140.14" DateAdded="2023-12-19" BitRate="224"
+           SampleRate="32000" Comments="" PlayCount="0" Rating="0" Location="file://localhost/E:/TASKS/GoogleTeachableMachine/HDH_New/audio-folder/sleepy%20right/2.mp3"
+           Remixer="" Tonality="Bbm" Label="" Mix="">
+      <TEMPO Inizio="0.401" Bpm="140.14" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="141858675" Name="1" Artist="" Composer="" Album="" Grouping=""
+           Genre="" Kind="MP3 File" Size="1683957" TotalTime="105" DiscNumber="0"
+           TrackNumber="0" Year="0" AverageBpm="156.02" DateAdded="2023-12-19"
+           BitRate="128" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/E:/11.18/rekordbox-dat-files/1.mp3"
+           Remixer="" Tonality="Ab" Label="" Mix="">
+      <TEMPO Inizio="0.322" Bpm="156.02" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="249618008" Name="When A Child Is Born" Artist="Denver Music Orchestra"
+           Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="2880919"
+           TotalTime="179" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="123.89"
+           DateAdded="2023-12-19" BitRate="128" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/E:/11.18/rekordbox_bak/ss/000%20(7).MP3"
+           Remixer="" Tonality="Ab" Label="" Mix="">
+      <TEMPO Inizio="0.167" Bpm="123.89" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="37.943" Bpm="123.89" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="95.091" Bpm="123.89" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="142.553" Bpm="123.89" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="137106769" Name="Can You Feel The Love Tonight" Artist="Hans Zimmer"
+           Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="3836373"
+           TotalTime="239" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="126.76"
+           DateAdded="2023-12-19" BitRate="128" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/E:/11.18/rekordbox_bak/ss/000%20(6).MP3"
+           Remixer="" Tonality="Gm" Label="" Mix="">
+      <TEMPO Inizio="0.311" Bpm="126.76" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="76.517" Bpm="126.76" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="227.510" Bpm="126.76" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="115613925" Name="000 (10)" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="MP3 File" Size="4131481" TotalTime="258"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="130.07" DateAdded="2023-12-19"
+           BitRate="128" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/E:/11.18/rekordbox_bak/ss/000%20(10).MP3"
+           Remixer="" Tonality="Abm" Label="" Mix="">
+      <TEMPO Inizio="0.099" Bpm="130.07" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.561" Bpm="130.07" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="13.939" Bpm="130.07" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="30.546" Bpm="130.07" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="50.382" Bpm="130.07" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="66.989" Bpm="130.07" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="83.596" Bpm="130.07" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="103.432" Bpm="130.07" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="120.039" Bpm="130.07" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="139.875" Bpm="130.07" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="159.711" Bpm="130.07" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="176.318" Bpm="130.07" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="192.925" Bpm="130.07" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="212.761" Bpm="130.07" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="229.368" Bpm="130.07" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="245.975" Bpm="130.07" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="132513034" Name="Don&apos;t Worry, We&apos;ll Be Watching You"
+           Artist="Gotye" Composer="Wally De Backer" Album="Making Mirrors"
+           Grouping="" Genre="Instrum. Pop " Kind="MP3 File" Size="7978153"
+           TotalTime="198" DiscNumber="0" TrackNumber="9" Year="2011" AverageBpm="138.00"
+           DateAdded="2023-12-19" BitRate="320" SampleRate="44100" Comments="reference libFLAC 1.2.1 20070917       "
+           PlayCount="0" Rating="0" Location="file://localhost/E:/11.18/rekordbox_bak/drive-download-20231218T075019Z-001/09%20Don_t%20Worry,%20We_ll%20Be%20Watching%20You.mp3"
+           Remixer="" Tonality="Dbm" Label="" Mix="">
+      <TEMPO Inizio="0.206" Bpm="138.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="141104833" Name="000 (4)" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="MP3 File" Size="5724787" TotalTime="238"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="127.00" DateAdded="2023-12-19"
+           BitRate="192" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/E:/11.18/rekordbox_bak/ss/000%20(4).mp3"
+           Remixer="" Tonality="Dbm" Label="" Mix="">
+      <TEMPO Inizio="0.331" Bpm="127.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="72.615" Bpm="127.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="156.710" Bpm="127.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="224.742" Bpm="127.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="104863789" Name="Felicita" Artist="Paul Mauriat" Composer=""
+           Album="" Grouping="" Genre="" Kind="MP3 File" Size="7010127"
+           TotalTime="175" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="166.18"
+           DateAdded="2023-12-19" BitRate="320" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/E:/11.18/rekordbox_bak/ss/000%20(1).mp3"
+           Remixer="" Tonality="Am" Label="" Mix="">
+      <TEMPO Inizio="0.175" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="3.064" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="31.949" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="60.834" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="89.719" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="119.326" Bpm="166.18" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="142.073" Bpm="166.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="165.181" Bpm="166.18" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="87393454" Name="Smoke And Mirrors" Artist="Gotye" Composer="Wally De Backer"
+           Album="Making Mirrors" Grouping="" Genre="Instrum. Pop " Kind="MP3 File"
+           Size="12652955" TotalTime="313" DiscNumber="0" TrackNumber="5"
+           Year="2011" AverageBpm="124.18" DateAdded="2023-12-19" BitRate="320"
+           SampleRate="44100" Comments="reference libFLAC 1.2.1 20070917       "
+           PlayCount="0" Rating="0" Location="file://localhost/E:/11.18/rekordbox_bak/drive-download-20231218T075019Z-001/05%20Smoke%20And%20Mirrors.mp3"
+           Remixer="" Tonality="Ebm" Label="" Mix="">
+      <TEMPO Inizio="0.468" Bpm="124.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="7.233" Bpm="124.18" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="19.796" Bpm="124.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="32.359" Bpm="124.18" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="47.821" Bpm="124.18" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="63.283" Bpm="124.18" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="78.745" Bpm="124.18" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="91.308" Bpm="124.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="106.770" Bpm="124.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="122.232" Bpm="124.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="134.795" Bpm="124.18" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="150.257" Bpm="124.18" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="165.719" Bpm="124.18" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="178.282" Bpm="124.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="193.744" Bpm="124.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="206.307" Bpm="124.18" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="221.769" Bpm="124.18" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="237.231" Bpm="124.18" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="249.794" Bpm="124.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="265.256" Bpm="124.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="280.718" Bpm="124.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="296.180" Bpm="124.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="308.743" Bpm="124.18" Metro="4/4" Battito="3"/>
+    </TRACK>
+    <TRACK TrackID="237136620" Name="Easy Way Out" Artist="Gotye" Composer="Wally De Backer"
+           Album="Making Mirrors" Grouping="" Genre="Instrum. Pop " Kind="MP3 File"
+           Size="4738959" TotalTime="117" DiscNumber="0" TrackNumber="2"
+           Year="2011" AverageBpm="130.96" DateAdded="2023-12-19" BitRate="320"
+           SampleRate="44100" Comments="reference libFLAC 1.2.1 20070917       "
+           PlayCount="0" Rating="0" Location="file://localhost/E:/11.18/rekordbox_bak/drive-download-20231218T075019Z-001/02%20Easy%20Way%20Out.mp3"
+           Remixer="" Tonality="E" Label="" Mix="">
+      <TEMPO Inizio="0.230" Bpm="130.96" Metro="4/4" Battito="1"/>
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="2">
+      <NODE Name="myPlaylist" Type="1" KeyType="0" Entries="12">
+        <TRACK Key="95446072"/>
+        <TRACK Key="100752670"/>
+        <TRACK Key="34658465"/>
+        <TRACK Key="141858675"/>
+        <TRACK Key="249618008"/>
+        <TRACK Key="137106769"/>
+        <TRACK Key="115613925"/>
+        <TRACK Key="132513034"/>
+        <TRACK Key="141104833"/>
+        <TRACK Key="104863789"/>
+        <TRACK Key="87393454"/>
+        <TRACK Key="237136620"/>
+      </NODE>
+      <NODE Name="Trial playlist - Cloud Library Sync" Type="1" KeyType="0"
+            Entries="0"/>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>

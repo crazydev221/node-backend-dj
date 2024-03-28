@@ -1,0 +1,35 @@
+{
+  "name": "pyrekordbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "buffer-layout": "^1.2.2",
+    "bufferpack": "^0.0.6",
+    "construct": "^1.0.0",
+    "construct-js": "^1.0.1",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "iconv-lite": "^0.6.3",
+    "log4js": "^6.9.1",
+    "node-id3": "^0.2.6",
+    "node-wav": "^0.0.2",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "pcm-util": "^3.0.0",
+    "sharp": "^0.33.1",
+    "struct": "^0.0.12",
+    "wav": "^1.0.2",
+    "waveform-data": "^4.3.0",
+    "wavesurfer.js": "^7.4.12",
+    "xml2js": "^0.6.2"
+  }
+}

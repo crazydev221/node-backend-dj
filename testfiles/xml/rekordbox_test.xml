@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.7.7" Company="AlphaTheta"/>
+  <COLLECTION Entries="4">
+    <TRACK TrackID="191700722" Name="1" Artist="" Composer="" Album="" Grouping=""
+           Genre="" Kind="MP3 File" Size="1683957" TotalTime="105" DiscNumber="0"
+           TrackNumber="0" Year="0" AverageBpm="156.02" DateAdded="2023-12-24"
+           BitRate="128" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/E:/11.18/rekordbox-dat-files/1.mp3"
+           Remixer="" Tonality="Ab" Label="" Mix="">
+      <TEMPO Inizio="0.322" Bpm="156.02" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="107431889" Name="Felicita" Artist="Paul Mauriat" Composer=""
+           Album="" Grouping="" Genre="" Kind="MP3 File" Size="7010127"
+           TotalTime="175" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="166.18"
+           DateAdded="2023-12-28" BitRate="320" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/E:/11.18/rekordbox_bak/ss/000%20(1).mp3"
+           Remixer="" Tonality="Am" Label="" Mix="">
+      <TEMPO Inizio="0.175" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="3.064" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="31.949" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="60.834" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="89.719" Bpm="166.18" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="119.326" Bpm="166.18" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="142.073" Bpm="166.18" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="165.181" Bpm="166.18" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="112391863" Name="4" Artist="" Composer="" Album="" Grouping=""
+           Genre="" Kind="MP3 File" Size="774505" TotalTime="88" DiscNumber="0"
+           TrackNumber="0" Year="0" AverageBpm="102.00" DateAdded="2023-12-30"
+           BitRate="112" SampleRate="22050" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/E:/11.18/rekordbox_bak/4.mp3" Remixer=""
+           Tonality="Fm" Label="" Mix="">
+      <TEMPO Inizio="0.408" Bpm="102.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="51.585" Bpm="102.00" Metro="4/4" Battito="4"/>
+    </TRACK>
+    <TRACK TrackID="115571344" Name="Don&apos;t Worry, We&apos;ll Be Watching You"
+           Artist="Gotye" Composer="Wally De Backer" Album="Making Mirrors"
+           Grouping="" Genre="Instrum. Pop " Kind="MP3 File" Size="7978153"
+           TotalTime="198" DiscNumber="0" TrackNumber="9" Year="2011" AverageBpm="138.00"
+           DateAdded="2023-12-30" BitRate="320" SampleRate="44100" Comments="reference libFLAC 1.2.1 20070917       "
+           PlayCount="0" Rating="0" Location="file://localhost/E:/11.18/rekordbox_bak/test.mp3"
+           Remixer="" Tonality="Dbm" Label="" Mix="">
+      <TEMPO Inizio="0.206" Bpm="138.00" Metro="4/4" Battito="3"/>
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="3">
+      <NODE Name="newPlaylist" Type="1" KeyType="0" Entries="2">
+        <TRACK Key="191700722"/>
+        <TRACK Key="107431889"/>
+      </NODE>
+      <NODE Name="myPlaylist" Type="1" KeyType="0" Entries="4">
+        <TRACK Key="191700722"/>
+        <TRACK Key="107431889"/>
+        <TRACK Key="112391863"/>
+        <TRACK Key="115571344"/>
+      </NODE>
+      <NODE Name="Trial playlist - Cloud Library Sync" Type="1" KeyType="0"
+            Entries="0"/>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
